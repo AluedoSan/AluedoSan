@@ -12,8 +12,8 @@
         </samp>
         <!-- Technologies -->
         <!-- JavaScript -->
-        <a href="https://github.com/AluedoSan?tab=repositories" target="_blank"><img alt="JavaScript"
-                        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+        <a href="https://github.com/AluedoSan?tab=repositories" target="_blank"><img alt="Django"
+                        src="https://img.shields.io/badge/-Django-white?style=flat-square&logo=Django&logoColor=green">
         </a>
         <!-- React -->
         <a href="https://github.com/AluedoSan?tab=repositories" target="_blank"><img alt="Golang"
