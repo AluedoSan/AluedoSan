@@ -37,20 +37,16 @@
         <!-- Social Links -->
         <p>Find me on</p>
         <!-- Mail -->
-        <a href="mailto:connect.shafin@gmail.com" target="_blank"><img alt="Mail"
+        <a href="mailto:connect.alexander.santos@unifil.br" target="_blank"><img alt="Mail"
                 src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
         </a>
         <!-- Twitter -->
-        <a href="https://twitter.com/connectshafin" target="_blank"><img alt="Twitter"
-                src="https://img.shields.io/badge/-Twitter-1c9bef?style=flat-square&logo=Twitter&logoColor=white">
+        <a href="https://www.instagram.com/alexander_ueno" target="_blank"><img alt="Linkedin"
+                src="https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&logo=Instagram&logoColor=white">
         </a>
         <!-- Linkedin -->
-        <a href="https://www.linkedin.com/in/shahriarshafin/" target="_blank"><img alt="Linkedin"
+        <a href="https://www.linkedin.com/in/alexander-ueno/" target="_blank"><img alt="Linkedin"
                 src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
-        </a>
-        <!-- Youtube -->
-        <a href="https://www.youtube.com/c/ShahriarShafin/videos" target="_blank"><img alt="Youtube"
-                src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white">
         </a>
     </p>
 </details>
@@ -69,21 +65,21 @@
 #### Featured
 
 <p align="center">
-<a href="https://github.com/AluedoSan/AluedoSan">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=AluedoSan&repo=AluedoSan&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/AluedoSan/RepositorySite">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=AluedoSan&repo=RepositorySite&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
-<a href="https://github.com/AluedoSan/repository-django">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=aluedosan&repo=repository-django&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/AluedoSan/SocialGo">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=AluedoSan&repo=SocialGo&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/AluedoSan/FinanceAPP">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=aluedosan&repo=FinanceAPP&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=AluedoSan&repo=FinanceAPP&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/AluedoSan/Londri-Mobi">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=aluedosan&repo=Londri-Mobi&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=AluedoSan&repo=Londri-Mobi&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 </p>
