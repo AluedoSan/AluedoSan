@@ -51,7 +51,26 @@
     </p>
 </details>
 <br>
+<!--Creative manifest-->
+<h1>✨ Creative Manifest — “Building with Purpose”</h1>
+<p>
+I believe that ideas only come to life when they are transformed into something tangible, useful and beautiful.
 
+For me, technology is not just a set of languages, frameworks or libraries — it is a tool for expression.
+
+I like what is functional, clean and direct. But I also like the hidden details, the visual touch, the well-thought-out experience. Design is important. Logic is important. And even more: what we do with everything is so important.
+
+I create systems that work, games that tell stories, interfaces that make sense.
+
+I am not afraid to start over. Refactoring is part of it. So is growing.
+
+I work in silence, but my code speaks.
+
+I learn quickly. I test. I adjust. I rethink. I move on.
+
+My purpose?
+To build with clarity, with creativity — and with purpose.
+</p>
 <!-- Footer -->
 <samp>
     <p align="center">
