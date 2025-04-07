@@ -71,6 +71,32 @@ I learn quickly. I test. I adjust. I rethink. I move on.
 My purpose?
 To build with clarity, with creativity — and with purpose.
 </p>
+<!--About Me-->
+<h1>👤 About me (personal presentation)</h1>
+<p>
+I'm a developer with an analytical mind and a creative soul.
+
+Curious by nature, self-taught by choice.
+
+I've worked with <strong>Python</strong>, <strong>Go</strong>, <strong>JavaScript</strong>, <strong>Django</strong>, <strong>Flask</strong>, <strong>Docker</strong>, <strong>Terraform</strong>, and others. But more than the tools, <strong>what drives me is the intention behind what I'm creating</strong>.
+
+I create websites, games, systems, and experiences.
+
+I like solving real problems, structuring ideas from scratch, and bringing projects with their own identity to life.
+
+I have experience with:
+<ul>
+        <li>Web development (back and front)</li>
+        <li>Projects in Go, Flask, Django</li>
+        <li>Interface design with a focus on usability</li>
+        <li>Game Creation with Godot</li>
+        <li>Infrastructure organization with Docker and Terraform</li>
+        <li>Technical and academic writing (including a thesis on AI and games)</li>
+</ul>
+<blockquote>I speak the language of code, but also the language of logic, aesthetics, and empathy.
+
+If you value well-thought-out ideas, well-written code, and projects built with real dedication — we'll get along just fine.</blockquote>
+</p>
 <!-- Footer -->
 <samp>
     <p align="center">
